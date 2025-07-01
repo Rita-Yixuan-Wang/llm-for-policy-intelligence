@@ -15,7 +15,7 @@ This project demonstrates how to use GPT-4 with few-shot prompting to classify U
 Automatically assign industry labels (e.g., Energy, Finance, Education) to policy texts using GPT-4.
 
 **Method:**  
-Few-shot learning (in-context classification using prompt examples)
+LLM Few-shot learning (in-context classification using prompt examples)
 
 **Tools:**  
 Python, OpenAI API, Pandas
