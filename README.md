@@ -34,7 +34,7 @@ This project shows how LLMs can be used out-of-the-box to:
 - Route policy updates to relevant internal teams (e.g., Energy, Labor)  
 - Quickly prototype NLP pipelines without labeled datasets or ML training
 
-For example, a consulting team serving clients in the energy and manufacturing sectors could deploy this LLM system to classify hundreds of federal and state policy updates weekly. The model could auto-route energy-related content to sustainability teams, or flag manufacturing incentives to business development units. With few-shot LLMs, this capability is deployable without training data, making it ideal for time-sensitive or resource-constrained use cases.![image](https://github.com/user-attachments/assets/5c2572e7-c050-497d-8dc7-eb728e90cd99)
+For example, a consulting team serving clients in the energy and manufacturing sectors could deploy this LLM system to classify hundreds of federal and state policy updates weekly. The model could auto-route energy-related content to sustainability teams, or flag manufacturing incentives to business development units. With few-shot LLMs, this capability is deployable without training data, making it ideal for time-sensitive or resource-constrained use cases.
 
 ---
 
